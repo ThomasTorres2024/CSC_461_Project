@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 398.5
   },
   "right": {
     "id": "80308174347cd6c3",
@@ -172,6 +171,8 @@
   },
   "active": "7ade1ab400af247c",
   "lastOpenFiles": [
+    "UMAP Video Annotations Obsidian Render.pdf",
+    "UMAP Video Annotations.pdf",
     "Pasted image 20251103231116.png",
     "Pasted image 20251103230809.png",
     "Pasted image 20251103230748.png",
@@ -181,7 +182,6 @@
     "Pasted image 20251103223128.png",
     "Pasted image 20251103223116.png",
     "Pasted image 20251103222453.png",
-    "Pasted image 20251103222407.png",
-    "Pasted image 20251103222324.png"
+    "Pasted image 20251103222407.png"
   ]
 }
