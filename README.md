@@ -1,2 +1,2 @@
 # CSC_461_Project
-Comparison of difference dimensionality reduction algorithms, at the moment the only agreed upon one is UMap
+Analysis of the LocalMAP dimension reduction algorithm and replication of figures from the LocalMAP paper.
